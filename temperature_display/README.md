@@ -10,6 +10,6 @@ Here is a picture of the completed board.
 
 And here are a couple of pictures that show how the components are connected.
 
-![Configuration 1](IMG_4699.jpg)
+![Configuration 1](IMG_4699.HEIC)
 
-![Configuration 2](IMG_4700.jpg)
+![Configuration 2](IMG_4700.HEIC)
