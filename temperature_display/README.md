@@ -6,7 +6,7 @@ This is a simple temperature display using a temperature sensor and a 16x2 LCD d
 
 Here is a picture of the completed board.
 
-<img src="/IMG_4701.jpg" width="300">
+<img src="IMG_4701.jpg" width="300">
 
 And here are a couple of pictures that show how the components are connected.
 
