@@ -13,8 +13,8 @@
 
 // create variable to declare which pin to flash
 
-int signalPin = 3 ;
-// int LED_BUILTIN = signalPin ;  // if you don't have pin 4 connected to an LED
+// int signalPin = 3 ;
+int signalPin = LED_BUILTIN ;  // if you don't have pin 4 connected to an LED
 
 
 // Define dot and dash sequences as well as end of letter and word
